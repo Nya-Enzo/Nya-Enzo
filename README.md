@@ -2,6 +2,8 @@
 - 👀 Je suis développeur PHP, C# et C++ ! (I'm a PHP, C# and C++ developer !)
 - 🌱 J'apprends encore aujourd'hui ses trois languages, notamment pour les mods among us et les plugins mcpe. (I'm still learning today these three languages, for among us mods and mcpe plugins.)
 - 📫 Voici mon discord ! (Here is my Discord !) : Enzø.ツ#0690
+- 😁 J'ai un serveur MCPE ! Voici le lien ! (I have an MCPE Server ! Here is the Link !) : https://discord.gg/mWCDj3wWHG
+- ✨Bonne journée à vous ! (Have a good day !)
 
 <!---
 Nya-Enzo/Nya-Enzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
