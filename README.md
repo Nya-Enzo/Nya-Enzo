@@ -1,1 +1,1 @@
-<h1>joeyy mindset<img src="[https://github.com/Nya-Enzo/icons/blob/master/honeyblock.png](https://raw.githubusercontent.com/Nya-Enzo/icons/master/images.png?token=GHSAT0AAAAAACGY6JU5BPT34FGWKPQGXJM4ZQQN4RQ)" height="64" width="64" align="left"></img></h1>
+<h1>joeyy mindset<img src="https://github.com/Nya-Enzo/Nya-Enzo/blob/main/images.png" height="64" width="64" align="left"></img></h1>
